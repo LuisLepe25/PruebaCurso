@@ -1,0 +1,4 @@
+# No incluir archivos log
+*.log
+/vs
+/vscode
